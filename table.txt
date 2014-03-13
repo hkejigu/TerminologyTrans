@@ -7,5 +7,10 @@ function 函数
 method 方法/函数 注:发现function和method经常是混用的，我一般都翻译成“函数”，这俩词有什么明显的区别吗？-hecha
 object-oriented 面向对象 注：我通常都在面向对象编程后边加上"技术"两个字.
 programmer 程序员
+developer 开发人员
 design 设计
+class 类
+attribute 属性，特指类的属性
 create 创建  创建一个函数/类
+instance 实例
+instantiate 实例化  instantiate a object 实例化一个对象

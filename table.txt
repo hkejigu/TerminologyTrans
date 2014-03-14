@@ -14,3 +14,5 @@ attribute 属性，特指类的属性
 create 创建  创建一个函数/类
 instance 实例
 instantiate 实例化  instantiate a object 实例化一个对象
+property 属性。property和attribute虽然有区别，但是好像所有的中文翻译都是属性。
+duck type （没有翻译，直接就叫duck type了）

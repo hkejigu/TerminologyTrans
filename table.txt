@@ -16,3 +16,10 @@ instance 实例
 instantiate 实例化  instantiate a object 实例化一个对象
 property 属性。property和attribute虽然有区别，但是好像所有的中文翻译都是属性。
 duck type （没有翻译，直接就叫duck type了）
+meta-programming 元编程
+parameter/argument 参数
+statement 语句
+constructor 构造函数
+Python interpreter Python解释器
+module 模块
+package 包
